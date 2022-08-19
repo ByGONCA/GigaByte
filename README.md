@@ -56,21 +56,17 @@ node .
 ```
 
 ## 🚀 Features
-`1.` Prefix Commands Handler.
+`1.` Prefix Commands.
 
-`2.` Slash Commands Handler.
+`2.` Slash Commands.
 
-`3.` CLient Events Support.
+`3.` CLient Events.
 
-`4.` Guild Events Support.
+`4.` Guild Events.
 
 `5.` Anti Crash.
 
 `6.` Mongo.DB Database Connection.
-
-`7.` Quick.db Support.
-
-`8.` Console Commands/Events Logs.
 
 
 ## 💼 License
