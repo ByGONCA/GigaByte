@@ -29,7 +29,7 @@ He was made with JavaScript <img height="25" src="https://raw.githubusercontent.
   
   4 - Scroll down to the "Privileged Gateway Intents" — Be sure to enable the `PRESENCE INTENT`, `SERVER MEMBERS INTENT` and `MESSAGE CONTENT INTENT`, then save.
 - [Mongo.db Database](https://www.mongodb.com/)
-- 
+
   1 - Create a **Free Cluster** & Create a **User** on **Cluster**.
 
   2 - Go to **DataBase** Page and after go to **Connect** Button and select **Connect your application**.
@@ -56,7 +56,22 @@ node .
 ```
 
 ## 🚀 Features
-**Loading ...**
+`1.` Prefix Commands Handler.
+
+`2.` Slash Commands Handler.
+
+`3.` CLient Events Support.
+
+`4.` Guild Events Support.
+
+`5.` Anti Crash.
+
+`6.` Mongo.DB Database Connection.
+
+`7.` Quick.db Support.
+
+`8.` Console Commands/Events Logs.
+
 
 ## 💼 License
 This project is licensed under the **[MIT](LICENSE)** license.
