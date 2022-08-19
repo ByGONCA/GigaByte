@@ -34,7 +34,7 @@ He was made with JavaScript <img height="25" src="https://raw.githubusercontent.
 
   2 - Go to **DataBase** Page and after go to `Connect` Button and select `Connect your application`.
 
-  3 - After this copy the link and where is `<password>` switch to you User password.
+  3 - After this copy the link and where is `<password>` switch to your User password.
 
 ### Installation
 ```sh-session
