@@ -8,7 +8,7 @@
 
 ## 🛡 Giga-Byte Information 
 
-The Sayrix its a Discord Bot developed by [ByGonca](https://github.com/ByGONCA).
+The Giga-Byte its a Discord Bot developed by [ByGonca](https://github.com/ByGONCA).
 
 He was made with JavaScript <img height="25" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.png"></img> and [Discord.js v14](https://discord.js.org/#/docs/discord.js/14.2.0/general/welcome)
 
