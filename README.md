@@ -30,11 +30,11 @@ He was made with JavaScript <img height="25" src="https://raw.githubusercontent.
   4 - Scroll down to the "Privileged Gateway Intents" — Be sure to enable the `PRESENCE INTENT`, `SERVER MEMBERS INTENT` and `MESSAGE CONTENT INTENT`, then save.
 - [Mongo.db Database](https://www.mongodb.com/)
 
-  1 - Create a `**Free Cluster**` & Create a `**User**` on `**Cluster**`.
+  1 - Create a `Free Cluster` & Create a `User` on `Cluster`.
 
-  2 - Go to **DataBase** Page and after go to `**Connect**` Button and select `**Connect your application**`.
+  2 - Go to **DataBase** Page and after go to `Connect` Button and select `Connect your application`.
 
-  3 - After this copy the link and where is `**<password>**` switch to you User password.
+  3 - After this copy the link and where is `<password>` switch to you User password.
 
 ### Installation
 ```sh-session
